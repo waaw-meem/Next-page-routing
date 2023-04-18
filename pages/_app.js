@@ -1,4 +1,4 @@
-import '@/indexstyles/globals.css'
+import './index'
 
 export default function App({ Component, pageProps }) {
   return <Component {...pageProps} />
